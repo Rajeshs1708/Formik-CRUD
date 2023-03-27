@@ -1,0 +1,33 @@
+.color{
+  background: linear-gradient(to right, #3494e6, #ec6ead);
+  width: 100vw;
+  height: 100vh;
+  color: white;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.align{
+  text-align: center;
+}
+
+.bgcolor{
+  text-align: center;
+}
+
+.align{
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
